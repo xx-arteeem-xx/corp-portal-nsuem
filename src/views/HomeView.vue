@@ -1,9 +1,13 @@
 <script setup>
-import TheWelcome from '../components/TheWelcome.vue'
+  import Top from "../components/Top.vue"
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <Top />
   </main>
 </template>
+
+<style>
+
+</style>
