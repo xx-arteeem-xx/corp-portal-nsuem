@@ -1,13 +1,11 @@
 <script setup>
-  import Top from "../components/Top.vue"
+    import Cards from "../components/home/Cards.vue"
+    import Top from "../components/home/Top.vue"
 </script>
 
 <template>
-  <main>
     <Top />
-  </main>
+    <Cards />
 </template>
 
-<style>
-
-</style>
+<style></style>
